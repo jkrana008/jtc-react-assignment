@@ -1,0 +1,15 @@
+{
+  "logger": {
+    "console": false
+  },
+  "papertrail": {
+    "host": null,
+    "port": null,
+    "handleExceptions": true,
+    "program": "webapp-production"
+  },
+  "public": {
+    "sentryENV": "production",
+    "apiEndpoint": "https://limitless-plateau-79555.herokuapp.com"
+  }
+}

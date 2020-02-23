@@ -1,0 +1,9 @@
+{
+  "LABLE_POSTS": "Posts",
+  "LABEL_LOADING_POSTS": "Loading posts...",
+  "POST_TITLE": "Title",
+  "POST_CONTENT": "Content",
+  "LABEL_PUBLISHING_POST": "Publishing post",
+  "POST_TITLE_INVALID": "Please write post title",
+  "POST_CONTENT_INVALID": "Please write post content"
+}
